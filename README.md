@@ -85,7 +85,7 @@
 
 
 ### Data Structure
-![Data Structure](/Pickyfy/img/DataStructure.png)
+![Data Structure](img/DataStructure.png)
 
 ### Algorithm Flow
 ```mermaid
